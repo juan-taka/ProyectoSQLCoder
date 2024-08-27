@@ -2,7 +2,7 @@ USE Bodegas;
 
 SET GLOBAL local_infile = true;
 
-LOAD DATA LOCAL INFILE '/sql_project/sql_project/Data.csv/BODEGAS.csv'
+LOAD DATA LOCAL INFILE '/sql_project/data.csv/BODEGAS.csv'
 INTO TABLE AREAS
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
