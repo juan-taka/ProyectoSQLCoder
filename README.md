@@ -7,7 +7,7 @@ Descripción de como estará compuesta la base de datos (tablas por la cual esta
 Diagrama de entidad relación de la DB:
 
 
-![alt text](diagramasql.jpg)
+![alt text](diagramasql3.jpg)
 
 
 
