@@ -32,10 +32,54 @@ Descripción de la base de datos:
 Base de datos diseñada para mostrar la ubicación de las bodegas y obtener determinada información sobre dichas bodegas y poder realizar operaciones detalladas.
 
 Tablas
-
 ```
-BODEGAS
+BODEGAS 
+```
+Contiene información sobre las bodegas. 
 
+Atributos: IDBODEGAS, IDEMPLEADOS, NOMBRE, UBICACION, TELEFONO, EMAIL. 
+```
+PROVEEDORES 
+```
+Contiene información de contacto sobre los proveedores. 
+
+Atributos: IDPROVEEDORES, NOMBREPROVEEDOR, TELEFONO, UBICACION, TARIFA, EMAIL. 
+```
+CLIENTES 
+```
+Contiene información sobre el cliente y una referencia. 
+
+Atributos: IDCLIENTES, NOMBRE, REFERENCIA, TELEFONO, EMAIL. 
+```
+CATEGORIA_VINOS 
+```
+Contiene la categoría de vinos y una breve descripción. 
+
+Atributos: IDCATEGORIA_VINOS, IDVINOS, NOMBRE, DESCRIPCION. 
+```
+VINOS 
+```
+Contiene información sobre los vinos y la variedad. 
+
+Atributos: IDVINOS, IDBODEGAS, NOMBRE, VARIEDAD, ANIO, PRECIO, CANTIDAD, IDCATEGORIA_VINOS. 
+```
+EMPLEADOS 
+```
+Contiene información completa sobre los empleados. 
+
+Atributos: IDEMPLEADOS, IDBODEGAS, NOMBRE, PUESTO, EMAIL, TELEFONO, FECHA_INGRESO. 
+```
+PROMOCIONES 
+```
+Contiene información sobre las promociones vigentes y su descuento. 
+
+Atributos: IDPROMOCIONES, IDVINOS, NOMBRE, DESCRIPCION, FECHA_INICIO, FECHA_FIN, DESCUENTO. 
+```
+VENTAS 
+```
+Contiene información detalla de las ventas realizadas a cada cliente. 
+
+Atributos: IDVENTAS, IDCLIENTES, IDVINOS, IDBODEGAS, CANTIDAD, PRECIO_TOTAL, FECHA. 
 
 
 
