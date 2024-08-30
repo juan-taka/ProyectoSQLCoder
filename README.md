@@ -84,9 +84,49 @@ Atributos: IDVENTAS, IDCLIENTES, IDVINOS, IDBODEGAS, CANTIDAD, PRECIO_TOTAL, FEC
 
 Listado De Las Tablas Con La Descripcion De Su Estructura.
 
-Tabla de BODEGAS
+Tabla De BODEGAS
 
-![image](https://github.com/user-attachments/assets/d2e7caee-d80b-40cc-a8ca-a553d02b0f42)
+![tablabodegas](https://github.com/user-attachments/assets/82671ecb-00bd-44d3-8f2a-464f347b9918)
+
+Tabla PROVEEDORES 
+
+![tablaproveedores](https://github.com/user-attachments/assets/1ee37179-7058-4dd4-97e7-3b2e6c99d699)
+
+Tabla CLIENTES
+
+![tablaclientes](https://github.com/user-attachments/assets/b2ce01d2-2ce6-4e77-8174-37bde621d12b)
+
+Tabla VINOS
+
+![tablavinos](https://github.com/user-attachments/assets/c2945559-99a2-4adf-8b5a-f1f4ffb7036a)
+
+Tabla VENTAS
+
+![tablaventas](https://github.com/user-attachments/assets/bb6c82c0-7b44-44e1-a04b-7d4731ca3421)
+
+Tabla EMPLEADOS
+
+![tablaempleados](https://github.com/user-attachments/assets/4a1454d9-014f-4266-b3f3-c27e5b2053c8)
+
+Tabla De CATEGORIA_VINOS
+
+![categoriavinos](https://github.com/user-attachments/assets/6313529b-dd21-49e6-b876-2010c26555f4)
+
+Tabla De PROMOCIONES
+
+![tablapromociones](https://github.com/user-attachments/assets/bbf277a5-1708-42a2-9e2e-8d628ef83b49)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
