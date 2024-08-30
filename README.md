@@ -24,7 +24,8 @@ Se dispuso crear e implementar una base de datos que aporte una solución al cli
 
 Diagrama de entidad relación de la DB:
 
-![alt text](diagramasql3.jpg)
+![diagramasql4](https://github.com/user-attachments/assets/b0b10b1a-78a5-4d58-bccb-b339f03bccff)
+
 
 
 Descripción de la base de datos: 
