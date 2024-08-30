@@ -86,7 +86,8 @@ Listado De Las Tablas Con La Descripcion De Su Estructura.
 
 Tabla De BODEGAS
 
-![tablabodegas](https://github.com/user-attachments/assets/dc911cf8-31b6-46f7-9775-9365de8192ed)
+![tablabodegas](https://github.com/user-attachments/assets/abc881ab-f78a-4d1b-9ca4-1d8558b17888)
+
 
 
 Tabla PROVEEDORES 
