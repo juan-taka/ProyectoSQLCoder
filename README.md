@@ -82,8 +82,9 @@ Contiene información detalla de las ventas realizadas a cada cliente.
 Atributos: IDVENTAS, IDCLIENTES, IDVINOS, IDBODEGAS, CANTIDAD, PRECIO_TOTAL, FECHA. 
 
 
+Listado De Las Tablas Con La Descripcion De Su Estructura.
 
-
+Tabla de BODEGAS
 
 
 
