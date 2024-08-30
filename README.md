@@ -86,6 +86,7 @@ Listado De Las Tablas Con La Descripcion De Su Estructura.
 
 Tabla de BODEGAS
 
+![image](https://github.com/user-attachments/assets/d2e7caee-d80b-40cc-a8ca-a553d02b0f42)
 
 
 
