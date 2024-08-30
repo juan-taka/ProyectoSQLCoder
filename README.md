@@ -92,31 +92,38 @@ Tabla De BODEGAS
 
 Tabla PROVEEDORES 
 
-![tablaproveedores](https://github.com/user-attachments/assets/1ee37179-7058-4dd4-97e7-3b2e6c99d699)
+![tablaproveedores](https://github.com/user-attachments/assets/765607de-e745-4444-9f56-c4d80d658427)
+
 
 Tabla CLIENTES
 
-![tablaclientes](https://github.com/user-attachments/assets/b2ce01d2-2ce6-4e77-8174-37bde621d12b)
+![tablaclientes](https://github.com/user-attachments/assets/a2ae2d50-7911-4793-a04a-494b5f9cbee2)
+
 
 Tabla VINOS
 
-![tablavinos](https://github.com/user-attachments/assets/c2945559-99a2-4adf-8b5a-f1f4ffb7036a)
+![tablavinos](https://github.com/user-attachments/assets/dd750451-db8a-4362-ab20-6cdf1f0e0884)
+
 
 Tabla VENTAS
 
-![tablaventas](https://github.com/user-attachments/assets/bb6c82c0-7b44-44e1-a04b-7d4731ca3421)
+![tablaventas](https://github.com/user-attachments/assets/9dc8d6e2-cc6f-43f8-830b-387b4afcd06a)
+
 
 Tabla EMPLEADOS
 
-![tablaempleados](https://github.com/user-attachments/assets/4a1454d9-014f-4266-b3f3-c27e5b2053c8)
+![tablaempleados](https://github.com/user-attachments/assets/6dc369ca-bbec-48be-9b56-860dadd1a4d7)
+
 
 Tabla De CATEGORIA_VINOS
 
-![categoriavinos](https://github.com/user-attachments/assets/6313529b-dd21-49e6-b876-2010c26555f4)
+![categoriavinos](https://github.com/user-attachments/assets/fd66bc3a-f717-4ee0-b99a-bc2ac766cf98)
+
 
 Tabla De PROMOCIONES
 
-![tablapromociones](https://github.com/user-attachments/assets/bbf277a5-1708-42a2-9e2e-8d628ef83b49)
+![tablapromociones](https://github.com/user-attachments/assets/abe7bb6a-2189-4d3b-9d17-975fc1e0b016)
+
 
 
 
